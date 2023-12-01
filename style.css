@@ -9,3 +9,13 @@ h1{
     margin: auto;
     display: block;
 }
+
+p{
+    font-size: 30px;
+    color: brown;
+    text-align: center;
+}
+
+body{
+    background-color: burlywood;
+}
